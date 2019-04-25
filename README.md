@@ -91,5 +91,4 @@ mNotificationManager.cancelAll();
 ## thanks
 核心代码都来自这个库，我只做了部分调整，自己维护了一个版本。
 [https://github.com/leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)
-![image](https://github.com/yufeilong92/badger-helper
-/blob/master/img/a.png)
+![image](https://github.com/yufeilong92/badger-helper/blob/master/img/a.png)
